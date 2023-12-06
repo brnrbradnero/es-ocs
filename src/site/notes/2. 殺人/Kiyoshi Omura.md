@@ -36,7 +36,7 @@ Largest Column: standard
 **⪩ Hobby :** Jogging
 **⪩ Image color :** <mark style="background: #896A79;">#896A79</mark>
 
---- end-multi-column
+--- end-multi-column![IMG_5706.png](/img/user/IMG_5706.png)
 # Appearance
 
 > .

@@ -15,15 +15,13 @@
 
 # Nova Vision (NoVis)
 
-> .
-> .
+> [[2. 殺人/* 殺人\|* 殺人]]
+> [[4. ROSEATE/* ROSEATE\|* ROSEATE]]
 > .
 
 ***
 
 # Tempo Dynamics (TempDy)
 
+> [[3. galactist☆r/* galactist☆r\|* galactist☆r]]
 > .
-> .
-> .[[2. 殺人/Kiyoshi Omura\|Kiyoshi Omura]]
-> 

@@ -25,4 +25,5 @@
 
 > .
 > .
-> .
+> .[[2. 殺人/Kiyoshi Omura\|Kiyoshi Omura]]
+> 

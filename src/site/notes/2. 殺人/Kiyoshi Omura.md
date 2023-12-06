@@ -5,7 +5,7 @@
 
 **“ Quote “**
 
-![IMG_4527.png|200](/img/user/IMG_4527.png)
+![IMG_4527.png|200](/img/user/%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94/IMG_4527.png)
 **Kiyoshi, 清 尾村
 殺人 (leader), NOVA VISION**
 Signature
@@ -56,7 +56,7 @@ Signature
 
 # Gallery
 
-  ![IMG_4527.png|200](/img/user/IMG_4527.png)
+  ![IMG_4527.png|200](/img/user/%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94/IMG_4527.png)
 ***
 
 [[2. 殺人/* 殺人\|* 殺人]] - [[2. 殺人/Kiyoshi Omura\|Kiyoshi Omura]]

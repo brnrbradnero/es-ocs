@@ -5,19 +5,14 @@
 
 **“ Quote “**
 
-```avatar
-image: —————————/IMG_4527.png
-description: |-
-  Kiyoshi, 清 尾村
-  殺人 (leader), NOVA VISION
-```
+![IMG_4527.png|200](/img/user/IMG_4527.png)
+**Kiyoshi, 清 尾村
+殺人 (leader), NOVA VISION**
+Signature
 
-**About** 
-```start-multi-column
-ID: ID_boy2
-Number of Columns: 2
-Largest Column: standard
-```
+***
+
+# About
 
 **⪩ Affiliation :** -
 **⪩ Age :** 19
@@ -26,17 +21,16 @@ Largest Column: standard
 **⪩ Blood type :** O
 **⪩ Handedness :** Right-handed
 **⪩ Family :** Oldest Sister/Big Sister
-
---- column-end ---
+# Extra
 
 **⪩ Personality :** Quiet
 **⪩ Likes :** Cats, Stuffed animals, Chocolate
 **⪩ Dislikes :** Tea
 **⪩ Favorite food :** Carbonara Pasta
 **⪩ Hobby :** Jogging
-**⪩ Image color :** <mark style="background: #896A79;">#896A79</mark>
+**⪩ Image color :** <mark style="background: #896A79;">#**896A79**</mark>
 
---- end-multi-column![IMG_5706.png](/img/user/IMG_5706.png)
+***
 # Appearance
 
 > .
@@ -53,8 +47,7 @@ Largest Column: standard
 
 ****
 
-# History
-
+# 
 > .
 > .
 > .
@@ -63,7 +56,7 @@ Largest Column: standard
 
 # Gallery
 
-  ![IMG_4527.png|200](/img/user/%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94/IMG_4527.png)
+  ![IMG_4527.png|200](/img/user/IMG_4527.png)
 ***
 
 [[2. 殺人/* 殺人\|* 殺人]] - [[2. 殺人/Kiyoshi Omura\|Kiyoshi Omura]]

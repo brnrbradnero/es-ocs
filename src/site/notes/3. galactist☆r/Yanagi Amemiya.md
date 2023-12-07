@@ -5,7 +5,7 @@
 
 **“ Quote “**
 
-![IMG_3333 1.png|200](/img/user/IMG_3333%201.png)
+![IMG_3333 1.png|200](/img/user/%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94/IMG_3333%201.png)
 **Yanagi, 雨宮 柳
 galactist☆r (leader), Tempo Dynamics**
 Signature
@@ -58,7 +58,7 @@ Signature
 
 # Gallery
 
-![IMG_3333.png|200](/img/user/IMG_3333.png)
+![IMG_3333.png|200](/img/user/%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94/IMG_3333.png)
 
 ***
 

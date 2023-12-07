@@ -6,7 +6,7 @@
 **“ Quote “**
 
 ![IMG_3316 1.png|200](/img/user/%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94/IMG_3316%201.png)
-**Kuroki,
+**Kuroki, JP name
 ROSEATE (leader), Nova Vision**
 Signature
 

@@ -63,4 +63,4 @@ Signature
 
 ***
 
-gluminase - [[7. Collab OCs/Yatora Sato\|Yatora Sato]] - Aato Tsukino - [[7. Collab OCs/Aotsuki Kimura\|Aotsuki Kimura]] - Yoko Mizuno
+gluminase - [[7. Collab OCs/Yatora Sato\|Yatora Sato]] - Aato Tsukino - [[7. Collab OCs/Aotsuki Kimura\|Aotsuki Kimura]] - Yoko Mizun

@@ -6,7 +6,7 @@
 **“ Quote “**
 
 ![IMG_3383.png|200](/img/user/%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94/IMG_3383.png)
-**Ruka,
+**Ruka, JP name
 rou, Tempo Dynamics**
 Signature
 
@@ -63,3 +63,4 @@ Signature
 
 ***
 
+rou - [[7. Collab OCs/Ruka Kaneko\|Ruka Kaneko]] - !wan - Toma

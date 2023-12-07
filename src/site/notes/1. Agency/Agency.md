@@ -22,5 +22,5 @@
 
 # Tempo Dynamics (TempDy)
 
-> [[3. galactist☆r/* galactist☆r\|* galactist☆r]]
-> * rou (collab unit)
+>* * [[3. galactist☆r/* galactist☆r\|* galactist☆r]]
+> * * rou (collab unit)

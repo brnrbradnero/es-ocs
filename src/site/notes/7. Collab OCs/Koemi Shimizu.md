@@ -6,8 +6,8 @@
 **“ Quote “**
 
 ![IMG_5246.png|200](/img/user/%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94/IMG_5246.png)
-**Koemi,
-aeonian (leader),**
+**Koemi, JP name
+aeonian (leader), Agency**
 Signature
 
 ***

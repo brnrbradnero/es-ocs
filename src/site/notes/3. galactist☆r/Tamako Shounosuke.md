@@ -6,7 +6,7 @@
 **“ Quote “**
 
 ![IMG_3340 1.png|200](/img/user/%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94/IMG_3340%201.png)
-**Tamako, 
+**Tamako,  JP name
 galactist☆r, Tempo Dynamics**
 Signature
 

@@ -17,7 +17,7 @@ Signature
 **⪩ Affiliation :** -
 **⪩ Age :** 19
 **⪩ Height/Weight :** 174cm/58kg
-**⪩ Birthday :** May 3rd
+**⪩ Birthday :** May 3rd (Taurus)
 **⪩ Blood type :** AB
 **⪩ Handedness :** Left-handed
 **⪩ Family :** Mother

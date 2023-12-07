@@ -6,7 +6,7 @@
 **“ Quote “**
 
 ![IMG_4345 1.png|200](/img/user/%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94/IMG_4345%201.png)
-**Juno,
+**Juno, JP name
 ROSEATE, Nova Vision**
 Signature
 

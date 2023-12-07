@@ -5,7 +5,7 @@
 
 **“ Quote “**
 
-![IMG_3340 1.png|200](/img/user/IMG_3340%201.png)
+![IMG_3340 1.png|200](/img/user/%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94/IMG_3340%201.png)
 **Tamako, 
 galactist☆r, Tempo Dynamics**
 Signature
@@ -58,7 +58,7 @@ Signature
 
 # Gallery
 
-![IMG_3340.png|200](/img/user/IMG_3340.png)
+![IMG_3340.png|200](/img/user/%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94/IMG_3340.png)
 
 ***
 

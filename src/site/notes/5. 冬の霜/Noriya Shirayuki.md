@@ -6,7 +6,7 @@
 **“ Quote “**
 
 ![IMG_3395.png|200](/img/user/%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94/IMG_3395.png)
-**Noriya,
+**Noriya, JP name
 冬の霜 (leader), Harmony Firm**
 Signature
 

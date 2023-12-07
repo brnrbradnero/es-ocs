@@ -63,4 +63,4 @@ Signature
 
 ***
 
-rou - [[7. Collab OCs/Ruka Kaneko\|Ruka Kaneko]] - !wan - Toma
+rou - [[7. Collab OCs/Ruka Kaneko\|Ruka Kaneko]] - !wan - Tom

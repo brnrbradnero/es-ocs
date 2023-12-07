@@ -9,6 +9,7 @@
 # Harmony Firm (HarFi)
 
 > [[5. 冬の霜/* 冬の霜\|* 冬の霜]]
+> * gluminase (collab unit)
 
 ***
 

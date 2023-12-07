@@ -17,7 +17,7 @@ Signature
 **⪩ Affiliation :** 18
 **⪩ Age :** Souten Gakuen 3-A
 **⪩ Height/Weight :** 180cm/59kg
-**⪩ Birthday :** November 6th ()
+**⪩ Birthday :** November 6th (Scorpio)
 **⪩ Blood type :** O
 **⪩ Handedness :** Right-handed
 **⪩ Family :** Grandmother, Grandfather

@@ -6,7 +6,7 @@
 **“ Quote “**
 
 ![IMG_4353 1.png|200](/img/user/%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94/IMG_4353%201.png)
-**Aozora,
+**Aozora, JP name
 galactist☆r, Tempo Dynamics**
 Signature
 

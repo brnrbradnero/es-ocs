@@ -2,41 +2,26 @@
 {"dg-publish":true,"permalink":"/3-galactist-r/aozora-akashi/"}
 ---
 
-
-**“ Quote “**
+|  |  |
+|:--- | ---:|
+| **“Quote”**    | **Aozora, JP name** <br> **galactist☆r, Tempo Dynamics**    |
 
 ![IMG_4353 1.png|200](/img/user/%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94/IMG_4353%201.png)
-**Aozora, JP name
-galactist☆r, Tempo Dynamics**
+
 Signature
 
 ***
 
-# About
+# Profile
 
-**⪩ Affiliation :** -
-**⪩ Age :** 20
-**⪩ Height/Weight :** 180cm/62kg
-**⪩ Birthday :** April 1st (Aries)
-**⪩ Blood type :** O
-**⪩ Handedness :** Ambidextrous
-**⪩ Family :** Mother
-
-# Extra
-
-**⪩ Personality :** Hypocritical
-**⪩ Likes :** Creating unnecesary drama
-**⪩ Dislikes :** People
-**⪩ Favorite food :** Sweets
-**⪩ Hobby :** Coding
-**⪩ Image color :** <mark style="background: #D30079 ;">#**D30079**</mark>
+| <span style="color: #10B5D6;">About</span> | <span style="color: #10B5D6;">Extra</span>|
+|:----- |:----- |
+|**⪩ Affiliation :** - <br> **⪩ Age :** 20 <br> **⪩ Height/Weight:** 180cm/62kg <br> **⪩ Birthday**: April 1st (Aries) <br> **⪩ Blood type :** O <br> **⪩ Handedness :** Ambidextrous <br> **⪩ Family :** Mother       |**⪩ Personality :** Hypocritical <br> **⪩ Likes :** Creating unnecesary drama <br> **⪩ Dislikes :** People <br> **⪩ Favorite food :** Sweets <br> **⪩ Hobby :** Coding <br> **⪩ Image color :** <mark style="background: #D30079 ;">#**D30079**</mark> 
 
 ***
 
 # Appearance
 
-> .
-> .
 > .
 
 ****
@@ -44,15 +29,11 @@ Signature
 # Etymology
 
 > .
-> .
-> .
 
 ****
 
 # History
 
-> .
-> .
 > .
 
 ****

@@ -7,7 +7,7 @@
 
 |     |    |
 |:--- | ---:|
-| ![[IMG_4527.png\|200]]     | **Kiyoshi, 清 尾村** <br> **殺人 (leader), NOVA VISION**     |
+| ![[IMG_4527.png\|150]]     | **Kiyoshi, 清 尾村** <br> **殺人 (leader), NOVA VISION**     |
 Signature
 
 ***

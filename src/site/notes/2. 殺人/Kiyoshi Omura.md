@@ -2,17 +2,17 @@
 {"dg-publish":true,"permalink":"/2/kiyoshi-omura/"}
 ---
 
-
-**“ Quote “**
-
 |     |    |
 |:--- | ---:|
-| ![[IMG_4527.png\|150]]     | **Kiyoshi, 清 尾村** <br> **殺人 (leader), NOVA VISION**     |
+| **“ Quote ”**      | **Kiyoshi, JP name** <br> **殺人 (leader), NOVA VISION**     |
+
+![[IMG_4527.png\|200]]
+
 Signature
 
 ***
 
-# Extra
+# Profile
 
 | <span style="color: #10B5D6;">About</span> | <span style="color: #10B5D6;">Extra</span>|
 |:----- |:----- |
@@ -22,23 +22,17 @@ Signature
 # Appearance
 
 > .
-> .
-> .
 
 ****
 
 # Etymology
 
 > .
-> .
-> .
 
 ****
 
 # History
 
-> .
-> .
 > .
 
 ****

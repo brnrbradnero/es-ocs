@@ -60,3 +60,8 @@ Signature
 ***
 
 [[2. 殺人/* 殺人\|* 殺人]] - [[2. 殺人/Kiyoshi Omura\|Kiyoshi Omura]]
+
+| moew  | jeeuhuhe |
+|:----- |:-------- |
+| meoew |          |
+| eihie |          |

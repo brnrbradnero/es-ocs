@@ -2,40 +2,25 @@
 {"dg-publish":true,"permalink":"/3-galactist-r/tamako-shounosuke/"}
 ---
 
-
-**“ Quote “**
+|  |  |
+|:--- | ---:|
+| **“Quote”**    | **Tamako,  JP name** <br> **galactist☆r, Tempo Dynamics**    |
 
 ![IMG_3340 1.png|200](/img/user/%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94/IMG_3340%201.png)
-**Tamako,  JP name
-galactist☆r, Tempo Dynamics**
+
 Signature
 
 ***
 
-# About
+# Profile
 
-**⪩ Affiliation :** Souten Gakuen 3-B
-**⪩ Age :** 18
-**⪩ Height/Weight :** 178cm/58kg
-**⪩ Birthday :** November 23rd (Sagittarius)
-**⪩ Blood type :** B
-**⪩ Handedness :** Right-handed
-**⪩ Family :** Parents
-
-# Extra
-
-**⪩ Personality :** Cheerful
-**⪩ Likes :** To go on walks at night
-**⪩ Dislikes :** Bitter food
-**⪩ Favorite food :** Orange tart
-**⪩ Hobby :** Gardening
-**⪩ Image color :** <mark style="background: #FF9A64 ;">#**FF9A64**</mark>
+| <span style="color: #10B5D6;">About</span> | <span style="color: #10B5D6;">Extra</span>|
+|:----- |:----- |
+|**⪩ Affiliation :** Souten Gakuen 3-B <br> **⪩ Age :** 18 <br> **⪩ Height/Weight:** 178cm/58kg <br> **⪩ Birthday**: November 23rd (Sagittarius) <br> **⪩ Blood type :** B <br> **⪩ Handedness :** Right-handed <br> **⪩ Family :** Mother, Father       |**⪩ Personality :** Cheerful <br> **⪩ Likes :** To go on walks at night <br> **⪩ Dislikes :** Bitter food <br> **⪩ Favorite food :** Orange tart <br> **⪩ Hobby :** Gardening <br> **⪩ Image color :** <mark style="background: #FF9A64 ;">#**FF9A64**</mark>
 
 ***
 # Appearance
 
-> .
-> .
 > .
 
 ****
@@ -43,15 +28,11 @@ Signature
 # Etymology
 
 > .
-> .
-> .
 
 ****
 
 # History
 
-> .
-> .
 > .
 
 ****

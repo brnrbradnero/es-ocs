@@ -2,41 +2,26 @@
 {"dg-publish":true,"permalink":"/5/noriya-shirayuki/"}
 ---
 
-
-**“ Quote “**
+|  |  |
+|:--- | ---:|
+| **“Quote”**    | **Noriya, JP name** <br> **冬の霜 (leader), Harmony Firm**    |
 
 ![IMG_3395.png|200](/img/user/%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94/IMG_3395.png)
-**Noriya, JP name
-冬の霜 (leader), Harmony Firm**
+
 Signature
 
 ***
 
-# About
+# Profile
 
-**⪩ Affiliation :** Souten Gakuen 2-A
-**⪩ Age :** 16
-**⪩ Height/Weight :** 169cm/53kg
-**⪩ Birthday :** August 4th (Leo)
-**⪩ Blood type :** A
-**⪩ Handedness :** Left-handed
-**⪩ Family :** [[4. ROSEATE/Juno Shirayuki\|Juno Shirayuki]] (Big Brother), Little Sister, Grandmother, Mother
-
-# Extra
-
-**⪩ Personality :** 
-**⪩ Likes :** His friend and famiy
-**⪩ Dislikes :** Vegetables
-**⪩ Favorite food :** Coffee
-**⪩ Hobby :** Coffee brewing
-**⪩ Image color :** <mark style="background: #AD5C67;">#**AD5C67**</mark>
+| <span style="color: #10B5D6;">About</span> | <span style="color: #10B5D6;">Extra</span>|
+|:----- |:----- |
+|**⪩ Affiliation :** Souten Gakuen 2-A <br> **⪩ Age :** 16 <br> **⪩ Height/Weight:** 169cm/53kg <br> **⪩ Birthday:** August 4th (Leo) <br> **⪩ Blood type :** A <br> **⪩ Handedness :** Left-handed <br> **⪩ Family :** [[4. ROSEATE/Juno Shirayuki\|Juno Shirayuki]](big brother), little sister, grandmother, mother       |**⪩ Personality :**  <br> **⪩ Likes :** Family, friends <br> **⪩ Dislikes :** Vegetables <br> **⪩ Favorite food :** Coffee <br> **⪩ Hobby :** Coffe brewing <br> **⪩ Image color :** <mark style="background: #AD5C67;">#**AD5C67**</mark> 
 
 ***
 
 # Appearance
 
-> .
-> .
 > .
 
 ****
@@ -44,15 +29,11 @@ Signature
 # Etymology
 
 > .
-> .
-> .
 
 ****
 
 # History
 
-> .
-> .
 > .
 
 ****

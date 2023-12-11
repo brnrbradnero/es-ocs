@@ -2,41 +2,26 @@
 {"dg-publish":true,"permalink":"/7-collab-o-cs/yatora-sato/"}
 ---
 
-
-**“ Quote “**
+|  |  |
+|:--- | ---:|
+| **“Quote”**    | **Yatora, JP name** <br> **gluminase, Harmony firm**    |
 
 ![IMG_5243.png|200](/img/user/%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94/IMG_5243.png)
-**Yatora, JP name
-gluminase, Harmony firm**
+
 Signature
 
 ***
 
-# About
+# Profile
 
-**⪩ Affiliation :** -
-**⪩ Age :** 19
-**⪩ Height/Weight :** 174cm/58kg
-**⪩ Birthday :** May 3rd (Taurus)
-**⪩ Blood type :** AB
-**⪩ Handedness :** Left-handed
-**⪩ Family :** Mother
-
-# Extra
-
-**⪩ Personality :**
-**⪩ Likes :** The color purple
-**⪩ Dislikes :**  Sports
-**⪩ Favorite food :** Fruit salad
-**⪩ Hobby :** Knitting
-**⪩ Image color :** <mark style="background: #E7B978 ;">#**E7B978**</mark>
+| <span style="color: #10B5D6;">About</span> | <span style="color: #10B5D6;">Extra</span>|
+|:----- |:----- |
+|**⪩ Affiliation :** - <br> **⪩ Age :** 19 <br> **⪩ Height/Weight:** 174cm/58kg <br> **⪩ Birthday:** May 3rd (Taurus) <br> **⪩ Blood type :** AB <br> **⪩ Handedness :** Left-handed <br> **⪩ Family :** Mother       |**⪩ Personality :** <br> **⪩ Likes :** The color purple <br> **⪩ Dislikes :** Sports <br> **⪩ Favorite food :** Fruit salad <br> **⪩ Hobby :** Knitting <br> **⪩ Image color :** <mark style="background: #E7B978 ;">#**E7B978**</mark>
 
 ***
 
 # Appearance
 
-> .
-> .
 > .
 
 ****
@@ -44,15 +29,11 @@ Signature
 # Etymology
 
 > .
-> .
-> .
 
 ****
 
 # History
 
-> .
-> .
 > .
 
 ****

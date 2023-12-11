@@ -2,41 +2,26 @@
 {"dg-publish":true,"permalink":"/6/terushi-miura/"}
 ---
 
-
-**“ Quote “**
+|  |  |
+|:--- | ---:|
+| **“Quote”**    | **Terushi, JP full name** <br> **Unit, Agency**    |
 
 ![IMG_3371.png|200](/img/user/%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94/IMG_3371.png)
-**Terushi, JP full name
-Unit, Agency**
+
 Signature
 
 ***
 
-# About
+# Profile
 
-**⪩ Affiliation :** Souten Gakuen 3-A
-**⪩ Age :** 18
-**⪩ Height/Weight :** 174cm/57kg
-**⪩ Birthday :** April 7th (Aries)
-**⪩ Blood type :** A
-**⪩ Handedness :** Right-handed
-**⪩ Family :** Mother, Father, Younger brother
-
-# Extra
-
-**⪩ Personality :**
-**⪩ Likes :** Spring, flowers
-**⪩ Dislikes :** Being ignored
-**⪩ Favorite food :** Berries
-**⪩ Hobby :** Makeup
-**⪩ Image color :** <mark style="background: #E98F90;">#**E98F90**</mark>
+| <span style="color: #10B5D6;">About</span> | <span style="color: #10B5D6;">Extra</span>|
+|:----- |:----- |
+|**⪩ Affiliation :** Souten Gakuen 3-A <br> **⪩ Age :** 18 <br> **⪩ Height/Weight:** 174cm/57kg <br> **⪩ Birthday:** April 7th (Aries) <br> **⪩ Blood type :** A <br> **⪩ Handedness :** Right-handed <br> **⪩ Family :** Mother, father, younger brother       |**⪩ Personality :** <br> **⪩ Likes :** Spring, flowers <br> **⪩ Dislikes :** Being ignored  <br> **⪩ Favorite food :** Berries <br> **⪩ Hobby :** Make-up <br> **⪩ Image color :** <mark style="background: #E98F90;">#**E98F90**</mark>
 
 ***
 
 # Appearance
 
-> .
-> .
 > .
 
 ****
@@ -44,15 +29,11 @@ Signature
 # Etymology
 
 > .
-> .
-> .
 
 ****
 
 # History
 
-> .
-> .
 > .
 
 ****

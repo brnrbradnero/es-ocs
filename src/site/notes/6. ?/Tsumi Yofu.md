@@ -2,41 +2,26 @@
 {"dg-publish":true,"permalink":"/6/tsumi-yofu/"}
 ---
 
-
-**“ Quote “**
+|  |  |
+|:--- | ---:|
+| **“Quote”**    | **Tsumi, JP full name** <br> **Unit, Agency** |
 
 ![IMG_3329.png|200](/img/user/%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94/IMG_3329.png)
-**Tsumi, JP full name
-Unit, Agency**
+
 Signature
 
 ***
 
-# About
+# Profile
 
-**⪩ Affiliation :** -
-**⪩ Age :** 19
-**⪩ Height/Weight :** 180cm/55kg
-**⪩ Birthday :** December 9th (Sagittarius)
-**⪩ Blood type :** O
-**⪩ Handedness :** Right-handed
-**⪩ Family :** Mother, Father
-
-# Extra
-
-**⪩ Personality :**
-**⪩ Likes :** Soap dramas
-**⪩ Dislikes :** Spicy food
-**⪩ Favorite food :** Coffee
-**⪩ Hobby :** Journaling
-**⪩ Image color :** <mark style="background: #A98B75;">#**A98B75**</mark>
+| <span style="color: #10B5D6;">About</span> | <span style="color: #10B5D6;">Extra</span>|
+|:----- |:----- |
+|**⪩ Affiliation :** - <br> **⪩ Age :** 19 <br> **⪩ Height/Weight:** 180cm/60kg <br> **⪩ Birthday:** December 9th (Sagittarius) <br> **⪩ Blood type :** O <br> **⪩ Handedness :** Right-handed <br> **⪩ Family :** Right-handed       |**⪩ Personality :** <br> **⪩ Likes :** Soap dramas <br> **⪩ Dislikes :** Spicy food <br> **⪩ Favorite food :** Coffee <br> **⪩ Hobby :** Journaling <br> **⪩ Image color :** <mark style="background: #A98B75;">#**A98B75**</mark> 
 
 ***
 
 # Appearance
 
-> .
-> .
 > .
 
 ****
@@ -44,15 +29,11 @@ Signature
 # Etymology
 
 > .
-> .
-> .
 
 ****
 
 # History
 
-> .
-> .
 > .
 
 ****

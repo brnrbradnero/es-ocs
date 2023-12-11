@@ -2,41 +2,26 @@
 {"dg-publish":true,"permalink":"/7-collab-o-cs/aotsuki-kimura/"}
 ---
 
-
-**“ Quote “**
+|  |  |
+|:--- | ---:|
+| **“Quote”**    | **Aotsuki, JP name** <br> **gluminase, Harmony Firm**    |
 
 ![IMG_5022.png|200](/img/user/%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94/IMG_5022.png)
-**Aotsuki, JP name
-gluminase, Harmony Firm**
+
 Signature
 
 ***
 
-# About
+# Profile
 
-**⪩ Affiliation :** 18
-**⪩ Age :** Souten Gakuen 3-A
-**⪩ Height/Weight :** 180cm/59kg
-**⪩ Birthday :** November 6th (Scorpio)
-**⪩ Blood type :** O
-**⪩ Handedness :** Right-handed
-**⪩ Family :** Grandmother, Grandfather
-
-# Extra
-
-**⪩ Personality :** 
-**⪩ Likes :** Water
-**⪩ Dislikes :** Cold weather
-**⪩ Favorite food :** Soft ice
-**⪩ Hobby :** Acting
-**⪩ Image color :** <mark style="background: #E37264;">#**E37264**</mark>
+| <span style="color: #10B5D6;">About</span> | <span style="color: #10B5D6;">Extra</span>|
+|:----- |:----- |
+|**⪩ Affiliation :** Souten Gakuen 3-A <br> **⪩ Age :** 18 <br> **⪩ Height/Weight:** 180cm/59kg <br> **⪩ Birthday:** November 6th (Scorpio) <br> **⪩ Blood type :** O <br> **⪩ Handedness :** Right-handed <br> **⪩ Family :** Grandmother, grandfather       |**⪩ Personality :** <br> **⪩ Likes :** Water <br> **⪩ Dislikes :** Cold weather <br> **⪩ Favorite food :** Soft ice <br> **⪩ Hobby :** Acting <br> **⪩ Image color :** <mark style="background: #E37264;">#**E37264**</mark> 
 
 ***
 
 # Appearance
 
-> .
-> .
 > .
 
 ****
@@ -44,15 +29,11 @@ Signature
 # Etymology
 
 > .
-> .
-> .
 
 ****
 
 # History
 
-> .
-> .
 > .
 
 ****

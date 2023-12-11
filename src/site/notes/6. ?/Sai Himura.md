@@ -2,41 +2,26 @@
 {"dg-publish":true,"permalink":"/6/sai-himura/"}
 ---
 
-
-**“ Quote “**
+|  |  |
+|:--- | ---:|
+| **“Quote”**    | **Sai, JP full name** <br> **Unit, Agency**    |
 
 ![IMG_5182.png|200](/img/user/%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94/IMG_5182.png)
-**Sai, JP full name
-Unit, Agency**
+
 Signature
 
 ***
 
-# About
+# Profile
 
-**⪩ Affiliation :** Souten Gakuen 2-A
-**⪩ Age :** 16
-**⪩ Height/Weight :** 178kg/55kg
-**⪩ Birthday :** May 6th
-**⪩ Blood type :** AB
-**⪩ Handedness :** Right-handed
-**⪩ Family :** Mother
-
-# Extra
-
-**⪩ Personality :**
-**⪩ Likes :** Music
-**⪩ Dislikes :** Scary stories
-**⪩ Favorite food :** Sweet chilli chiken
-**⪩ Hobby :** Visiting museums
-**⪩ Image color :** <mark style="background: #851515;">#**851515**</mark>
+| <span style="color: #10B5D6;">About</span> | <span style="color: #10B5D6;">Extra</span>|
+|:----- |:----- |
+|**⪩ Affiliation :** Souten Gakuen 2-A <br> **⪩ Age :** 16 <br> **⪩ Height/Weight:** 178cm/55kg <br> **⪩ Birthday:** May 6th (Taurus) <br> **⪩ Blood type :** AB <br> **⪩ Handedness :** Right-handed <br> **⪩ Family :** Mother       |**⪩ Personality :** <br> **⪩ Likes :** Music <br> **⪩ Dislikes :** Scary stories <br> **⪩ Favorite food :** Sweet chili chicken <br> **⪩ Hobby :** Visiting museums  <br> **⪩ Image color :** <mark style="background: #851515;">#**851515**</mark> 
 
 ***
 
 # Appearance
 
-> .
-> .
 > .
 
 ****
@@ -44,15 +29,11 @@ Signature
 # Etymology
 
 > .
-> .
-> .
 
 ****
 
 # History
 
-> .
-> .
 > .
 
 ****

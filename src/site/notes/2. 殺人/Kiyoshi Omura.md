@@ -4,9 +4,9 @@
 
 |     |    |
 |:--- | ---:|
-| **“ Quote ”**      | **Kiyoshi, JP name** <br> **殺人 (leader), NOVA VISION**     |
+| **“ Quote ”**      | **Kiyoshi, JP name** <br> **恩村 潔 (leader), NOVA VISION**     |
 
-![[IMG_4527.png\|200]]
+![IMG_4527.png|200](/img/user/%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94/IMG_4527.png)
 
 Signature
 
@@ -16,7 +16,7 @@ Signature
 
 | <span style="color: #10B5D6;">About</span> | <span style="color: #10B5D6;">Extra</span>|
 |:----- |:----- |
-|**⪩ Affiliation :** - <br> **⪩ Age :** 19 <br> **⪩ Height/Weight:** 175cm/56kg <br> **⪩ Birthday**: July 18th (Cancer) <br> **⪩ Blood type :** O <br> **⪩ Handedness :** Right-handed <br> **⪩ Family :** Oldest Sister, Big Sister       |**⪩ Personality :** Quiet <br> **⪩ Likes :** Cats, Stuffed animals, Chocolate <br> **⪩ Dislikes :** Tea <br> **⪩ Favorite food :** Carbonara Pasta <br> **⪩ Hobby :** Jogging <br> **⪩ Image color :** <mark style="background: #896A79;">#**896A79**</mark>
+|**⪩ Affiliation :** - <br> **⪩ Age :** 19 <br> **⪩ Height/Weight:** 175cm/56kg <br> **⪩ Birthday**: July 18th (Cancer) <br> **⪩ Blood type :** O <br> **⪩ Handedness :** Right-handed <br> **⪩ Family :** Oldest sister, sig sister       |**⪩ Personality :** Quiet <br> **⪩ Likes :** Cats, stuffed animals, chocolate <br> **⪩ Dislikes :** Tea <br> **⪩ Favorite food :** Carbonara pasta <br> **⪩ Hobby :** Jogging <br> **⪩ Image color :** <mark style="background: #896A79;">#**896A79**</mark>
 
 ***
 # Appearance
@@ -27,7 +27,7 @@ Signature
 
 # Etymology
 
-> .
+> Kiyoshi’s first name means “purity” (潔). The first character in Kiyoshi’s last name “on” (恩) means gratitude. The last character “mura” (村) means “village”.
 
 ****
 

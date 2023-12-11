@@ -2,41 +2,26 @@
 {"dg-publish":true,"permalink":"/7-collab-o-cs/noeru-aotsuki/"}
 ---
 
-
-**“ Quote “**
+|  |  |
+|:--- | ---:|
+| **“Quote”**    | **Noeru, JP full name** <br> **6teen4ever (leader), Agency**|
 
 ![IMG_3897.png|200](/img/user/%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E2%80%94/IMG_3897.png)
-**Noeru, JP full name
-6teen4ever (leader), Agency**
+
 Signature
 
 ***
 
-# About
+# Profile
 
-**⪩ Affiliation :** -
-**⪩ Age :** 19
-**⪩ Height/Weight :** 179cm/51kg
-**⪩ Birthday :** January 6th (Capricorn)
-**⪩ Blood type :** A
-**⪩ Handedness :** Right-handed
-**⪩ Family :** Mother, Father, Twin sister
-
-# Extra
-
-**⪩ Personality :**
-**⪩ Likes :** Horror movies
-**⪩ Dislikes :** Waking up early in the morning
-**⪩ Favorite food :** Grilled peach sundaes
-**⪩ Hobby :** Embroidery
-**⪩ Image color :** <mark style="background: #FEEBC6;">#**FEEBC6**</mark>
+| <span style="color: #10B5D6;">About</span> | <span style="color: #10B5D6;">Extra</span>|
+|:----- |:----- |
+|**⪩ Affiliation :** - <br> **⪩ Age :** 19 <br> **⪩ Height/Weight:** 179cm/51kg <br> **⪩ Birthday:** January 6th (Capricorn) <br> **⪩ Blood type :** A <br> **⪩ Handedness :** Right-handed <br> **⪩ Family :** Mother, father, twin sister       |**⪩ Personality :** <br> **⪩ Likes :** Horror movies <br> **⪩ Dislikes :** Waking up early in the morning <br> **⪩ Favorite food :** Grilled peach sundaes <br> **⪩ Hobby :** Embroidery <br> **⪩ Image color :** <mark style="background: #FEEBC6;">#**FEEBC6**</mark>
 
 ***
 
 # Appearance
 
-> .
-> .
 > .
 
 ****
@@ -44,15 +29,11 @@ Signature
 # Etymology
 
 > .
-> .
-> .
 
 ****
 
 # History
 
-> .
-> .
 > .
 
 ****

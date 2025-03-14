@@ -14,9 +14,9 @@ Signature
 
 # Profile
 
-| <span style="color: #10B5D6;">About</span> | <span style="color: #10B5D6;">Extra</span>|
-|:----- |:----- |
-|**⪩ Affiliation :** Souten Gakuen 2-A <br> **⪩ Age :** 16 <br> **⪩ Height/Weight:** 169cm/53kg <br> **⪩ Birthday:** August 4th (Leo) <br> **⪩ Blood type :** A <br> **⪩ Handedness :** Left-handed <br> **⪩ Family :** [[4. ROSEATE/Juno Shirayuki\|Juno Shirayuki]](big brother), little sister, grandmother, mother       |**⪩ Personality :**  <br> **⪩ Likes :** Family, friends <br> **⪩ Dislikes :** Vegetables <br> **⪩ Favorite food :** Coffee <br> **⪩ Hobby :** Coffe brewing <br> **⪩ Image color :** <mark style="background: #AD5C67;">#**AD5C67**</mark> 
+| <span style="color: #10B5D6;">About</span>                                                                                                                                                                                                                                                 | <span style="color: #10B5D6;">Extra</span>                                                                                                                                                                                                 |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **⪩ Affiliation :** Souten Gakuen 2-A <br> **⪩ Age :** 16 <br> **⪩ Height/Weight:** 169cm/53kg <br> **⪩ Birthday:** August 4th (Leo) <br> **⪩ Blood type :** A <br> **⪩ Handedness :** Left-handed <br> **⪩ Family :** [[4. ROSEATE/Juno Shirayuki\|Juno Shirayuki]](big brother), little sister, grandmother, mother | **⪩ Personality :**  <br> **⪩ Likes :** Family, friends <br> **⪩ Dislikes :** Vegetables <br> **⪩ Favorite food :** Coffee <br> **⪩ Hobby :** Coffe brewing <br> **⪩ Image color :** <mark style="background: #AD5C67;">#**AD5C67**</mark> |
 
 ***
 

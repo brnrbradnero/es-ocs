@@ -9,7 +9,6 @@
 # Harmony Firm (HarFi)
 
 >[[5. 冬の霜/* 冬の霜\|* 冬の霜]]
->gluminase (Collab Unit)
 
 ***
 
@@ -23,7 +22,6 @@
 # Tempo Dynamics (TempDy)
 
 > [[3. galactist☆r/* galactist☆r\|* galactist☆r]]
->rou (Collab Unit)
 
 ***
 
